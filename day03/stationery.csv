@@ -1,0 +1,9 @@
+date,place,name,product_name,unit_stock,unit,price_per_unit,totla_price
+5/14/2020,Central,Gill,Pencil,100,53,1.29,68.37
+6/17/2020,Central,Kivell,Desk,,5,125,625
+7/4/2020,East,Jones,Pen Set,100,62,4.99,309.38
+7/21/2020,Central,Morgan,Pen Set,100,55,12.49,686.95
+8/24/2020,West,Sorvino,Desk,100,3,275,825
+10/14/2020,West,Thompson,Binder,,57,19.99,"1,139.43"
+10/31/2020,Central,Andrews,Pencil,100,14,1.29,18.06
+11/17/2020,Central,Jardine,Binder,,11,4.99,54.89
